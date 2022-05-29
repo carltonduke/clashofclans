@@ -5,6 +5,5 @@
 ## donationRatio.py: 
 Calls Clash of Clans REST API, parses returned JSON file to get the ratio of troops donated to troops received by each member of a specified clan.
 
-##
-call_rest_api.py:
+## call_rest_api.py:
 A more extendable & modular way to get JSON data from the Clash of Clans REST API, allows for different methods and tags to be passed in as args.
